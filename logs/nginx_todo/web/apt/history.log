@@ -1,0 +1,5 @@
+
+Start-Date: 2022-06-23  06:53:28
+Commandline: apt-get install -y uwsgi-plugin-python
+Install: libpgm-5.2-0:amd64 (5.2.122~dfsg-2, automatic), libzmq5:amd64 (4.2.1-4+deb9u4, automatic), libmatheval1:amd64 (1.1.11+dfsg-3, automatic), uwsgi-plugin-python:amd64 (2.0.14+20161117-3+deb9u5), uwsgi-core:amd64 (2.0.14+20161117-3+deb9u5, automatic), libsodium18:amd64 (1.0.11-2, automatic), libjansson4:amd64 (2.9-1, automatic)
+End-Date: 2022-06-23  06:53:33

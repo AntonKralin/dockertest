@@ -1,0 +1,6 @@
+update-alternatives 2022-06-23 06:53:33: run with --quiet --install /usr/bin/uwsgi uwsgi /usr/bin/uwsgi-core 75 --slave /usr/share/man/man1/uwsgi.1.gz uwsgi.1.gz /usr/share/man/man1/uwsgi-core.1.gz
+update-alternatives 2022-06-23 06:53:33: link group uwsgi updated to point to /usr/bin/uwsgi-core
+update-alternatives 2022-06-23 06:53:33: run with --quiet --install /usr/lib/uwsgi/plugins/python_plugin.so uwsgi-plugin-python /usr/lib/uwsgi/plugins/python27_plugin.so 75 --slave /usr/bin/uwsgi_python uwsgi_python /usr/bin/uwsgi-core --slave /usr/share/man/man1/uwsgi_python.1.gz uwsgi_python.1.gz /usr/share/man/man1/uwsgi_python27.1.gz
+update-alternatives 2022-06-23 06:53:33: link group uwsgi-plugin-python updated to point to /usr/lib/uwsgi/plugins/python27_plugin.so
+update-alternatives 2022-06-23 06:53:33: run with --quiet --install /usr/bin/uwsgi uwsgi /usr/bin/uwsgi_python27 35 --slave /usr/share/man/man1/uwsgi.1.gz uwsgi.1.gz /usr/share/man/man1/uwsgi_python27.1.gz
+update-alternatives 2022-06-23 06:53:33: run with --quiet --install /usr/bin/uwsgi uwsgi /usr/bin/uwsgi_python 35 --slave /usr/share/man/man1/uwsgi.1.gz uwsgi.1.gz /usr/share/man/man1/uwsgi_python.1.gz

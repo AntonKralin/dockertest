@@ -1,0 +1,280 @@
+2022-06-23 06:12:12,457 CRIT Supervisor running as root (no user in config file)
+2022-06-23 06:12:12,457 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 06:12:13,202 INFO RPC interface 'supervisor' initialized
+2022-06-23 06:12:13,202 INFO RPC interface 'supervisor' initialized
+2022-06-23 06:12:13,203 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 06:12:13,203 INFO supervisord started with pid 1
+2022-06-23 06:12:14,205 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 06:12:14,209 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 06:12:15,212 INFO success: send-notification_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 06:12:15,212 INFO success: send-notification_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 06:12:28,178 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:12:28,182 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 06:12:28,183 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:12:28,521 INFO spawned: 'send-notification_00' with pid 24
+2022-06-23 06:12:28,546 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:12:28,857 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:12:29,861 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 06:12:29,864 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 06:12:30,178 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:12:30,202 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:12:32,206 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 06:12:32,209 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 06:12:32,558 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:12:32,567 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:12:35,573 INFO spawned: 'send-notification_01' with pid 49
+2022-06-23 06:12:35,577 INFO spawned: 'send-notification_00' with pid 50
+2022-06-23 06:12:35,882 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:12:35,883 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 06:12:35,884 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:12:36,885 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 06:34:23,474 WARN received SIGTERM indicating exit request
+2022-06-23 06:48:25,382 CRIT Supervisor running as root (no user in config file)
+2022-06-23 06:48:25,382 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 06:48:25,417 INFO RPC interface 'supervisor' initialized
+2022-06-23 06:48:25,418 INFO RPC interface 'supervisor' initialized
+2022-06-23 06:48:25,418 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 06:48:25,418 INFO supervisord started with pid 1
+2022-06-23 06:48:26,421 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 06:48:26,425 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 06:48:27,203 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:48:27,203 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:48:28,206 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 06:48:28,210 INFO spawned: 'send-notification_00' with pid 20
+2022-06-23 06:48:28,548 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:48:28,552 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:48:30,556 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 06:48:30,560 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 06:48:30,902 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:48:30,905 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:48:33,910 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 06:48:33,912 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 06:48:34,248 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:48:34,255 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 06:48:34,255 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:48:35,256 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 06:57:30,944 WARN received SIGTERM indicating exit request
+2022-06-23 06:58:37,382 CRIT Supervisor running as root (no user in config file)
+2022-06-23 06:58:37,382 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 06:58:37,415 INFO RPC interface 'supervisor' initialized
+2022-06-23 06:58:37,416 INFO RPC interface 'supervisor' initialized
+2022-06-23 06:58:37,416 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 06:58:37,416 INFO supervisord started with pid 1
+2022-06-23 06:58:38,419 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 06:58:38,427 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 06:58:39,429 INFO success: send-notification_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 06:58:39,429 INFO success: send-notification_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 06:58:41,301 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:58:41,305 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 06:58:41,306 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:58:41,637 INFO spawned: 'send-notification_00' with pid 24
+2022-06-23 06:58:41,662 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:58:41,936 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:58:42,940 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 06:58:42,944 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 06:58:43,291 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:58:43,294 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:58:45,298 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 06:58:45,302 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 06:58:45,623 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:58:45,644 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:58:48,649 INFO spawned: 'send-notification_01' with pid 49
+2022-06-23 06:58:48,651 INFO spawned: 'send-notification_00' with pid 50
+2022-06-23 06:58:48,974 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 06:58:48,996 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 06:58:48,996 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 06:58:49,997 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 07:13:32,627 WARN received SIGTERM indicating exit request
+2022-06-23 07:14:16,468 CRIT Supervisor running as root (no user in config file)
+2022-06-23 07:14:16,468 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 07:14:16,496 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:14:16,496 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:14:16,496 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 07:14:16,497 INFO supervisord started with pid 1
+2022-06-23 07:14:17,499 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 07:14:17,504 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 07:14:18,506 INFO success: send-notification_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 07:14:18,506 INFO success: send-notification_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 07:14:19,034 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:14:19,037 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 07:14:19,038 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:14:19,328 INFO spawned: 'send-notification_00' with pid 24
+2022-06-23 07:14:19,351 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:14:19,648 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:14:20,652 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 07:14:20,655 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 07:14:20,962 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:14:20,964 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:14:22,969 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 07:14:22,972 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 07:14:23,267 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:14:23,276 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:14:26,281 INFO spawned: 'send-notification_01' with pid 49
+2022-06-23 07:14:26,284 INFO spawned: 'send-notification_00' with pid 50
+2022-06-23 07:14:26,584 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:14:26,584 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:14:26,585 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 07:14:26,585 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 07:18:39,214 WARN received SIGTERM indicating exit request
+2022-06-23 07:18:46,097 CRIT Supervisor running as root (no user in config file)
+2022-06-23 07:18:46,097 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 07:18:46,119 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:18:46,120 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:18:46,120 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 07:18:46,120 INFO supervisord started with pid 1
+2022-06-23 07:18:47,123 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 07:18:47,127 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 07:18:47,919 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:18:47,921 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:18:48,924 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 07:18:48,926 INFO spawned: 'send-notification_00' with pid 20
+2022-06-23 07:18:49,240 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:18:49,265 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:18:51,270 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 07:18:51,273 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 07:18:51,600 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:18:51,614 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:18:54,620 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 07:18:54,623 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 07:18:54,970 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:18:54,970 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:18:54,970 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 07:18:54,970 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 07:20:01,142 WARN received SIGTERM indicating exit request
+2022-06-23 07:37:21,232 CRIT Supervisor running as root (no user in config file)
+2022-06-23 07:37:21,232 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 07:37:21,257 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:37:21,269 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:37:21,270 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 07:37:21,270 INFO supervisord started with pid 1
+2022-06-23 07:37:22,273 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 07:37:22,304 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 07:37:23,280 INFO success: send-notification_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 07:37:23,323 INFO success: send-notification_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 07:37:23,324 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:37:23,324 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:37:24,327 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 07:37:24,329 INFO spawned: 'send-notification_00' with pid 20
+2022-06-23 07:37:24,744 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:37:24,889 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:37:25,893 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 07:37:25,896 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 07:37:26,238 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:37:26,245 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:37:28,249 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 07:37:28,253 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 07:37:28,599 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:37:28,599 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:37:31,603 INFO spawned: 'send-notification_01' with pid 49
+2022-06-23 07:37:31,605 INFO spawned: 'send-notification_00' with pid 50
+2022-06-23 07:37:31,923 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:37:31,928 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 07:37:31,951 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:37:32,952 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 07:38:17,766 WARN received SIGTERM indicating exit request
+2022-06-23 07:54:59,285 CRIT Supervisor running as root (no user in config file)
+2022-06-23 07:54:59,285 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 07:54:59,301 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:54:59,301 INFO RPC interface 'supervisor' initialized
+2022-06-23 07:54:59,301 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 07:54:59,304 INFO supervisord started with pid 1
+2022-06-23 07:55:00,306 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 07:55:00,330 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 07:55:01,323 INFO success: send-notification_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 07:55:01,327 INFO success: send-notification_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-23 07:55:01,361 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:55:01,375 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 07:55:01,384 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:55:01,809 INFO spawned: 'send-notification_00' with pid 24
+2022-06-23 07:55:01,855 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:55:02,256 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:55:03,259 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 07:55:03,261 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 07:55:03,685 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:55:03,770 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:55:05,774 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 07:55:05,777 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 07:55:06,106 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:55:06,123 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:55:09,128 INFO spawned: 'send-notification_01' with pid 49
+2022-06-23 07:55:09,131 INFO spawned: 'send-notification_00' with pid 50
+2022-06-23 07:55:09,474 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 07:55:09,478 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 07:55:09,478 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 07:55:10,479 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 08:47:24,603 WARN received SIGTERM indicating exit request
+2022-06-23 08:48:06,272 CRIT Supervisor running as root (no user in config file)
+2022-06-23 08:48:06,272 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 08:48:06,282 INFO RPC interface 'supervisor' initialized
+2022-06-23 08:48:06,283 INFO RPC interface 'supervisor' initialized
+2022-06-23 08:48:06,283 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 08:48:06,283 INFO supervisord started with pid 1
+2022-06-23 08:48:07,286 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 08:48:07,292 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 08:48:07,596 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 08:48:07,611 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 08:48:08,614 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 08:48:08,617 INFO spawned: 'send-notification_00' with pid 20
+2022-06-23 08:48:08,953 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 08:48:08,960 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 08:48:10,965 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 08:48:10,968 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 08:48:11,324 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 08:48:11,324 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 08:48:14,330 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 08:48:14,333 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 08:48:14,647 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 08:48:14,652 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 08:48:14,652 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 08:48:15,654 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 08:48:23,828 WARN received SIGTERM indicating exit request
+2022-06-23 09:06:08,183 CRIT Supervisor running as root (no user in config file)
+2022-06-23 09:06:08,183 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 09:06:08,194 INFO RPC interface 'supervisor' initialized
+2022-06-23 09:06:08,195 INFO RPC interface 'supervisor' initialized
+2022-06-23 09:06:08,195 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 09:06:08,195 INFO supervisord started with pid 1
+2022-06-23 09:06:09,198 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 09:06:09,214 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 09:06:09,609 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:06:09,652 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:06:10,655 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 09:06:10,657 INFO spawned: 'send-notification_00' with pid 20
+2022-06-23 09:06:10,960 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:06:11,000 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:06:13,005 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 09:06:13,008 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 09:06:13,336 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:06:13,353 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:06:16,359 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 09:06:16,362 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 09:06:16,671 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:06:16,688 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 09:06:16,688 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:06:17,689 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 09:08:00,876 WARN received SIGTERM indicating exit request
+2022-06-23 09:12:35,715 CRIT Supervisor running as root (no user in config file)
+2022-06-23 09:12:35,715 INFO Included extra file "/etc/supervisor/conf.d/todo.conf" during parsing
+2022-06-23 09:12:35,727 INFO RPC interface 'supervisor' initialized
+2022-06-23 09:12:35,727 INFO RPC interface 'supervisor' initialized
+2022-06-23 09:12:35,727 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-23 09:12:35,727 INFO supervisord started with pid 1
+2022-06-23 09:12:36,731 INFO spawned: 'send-notification_01' with pid 9
+2022-06-23 09:12:36,737 INFO spawned: 'send-notification_00' with pid 10
+2022-06-23 09:12:37,101 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:12:37,102 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:12:38,105 INFO spawned: 'send-notification_01' with pid 19
+2022-06-23 09:12:38,110 INFO spawned: 'send-notification_00' with pid 20
+2022-06-23 09:12:38,414 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:12:38,423 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:12:40,428 INFO spawned: 'send-notification_01' with pid 29
+2022-06-23 09:12:40,431 INFO spawned: 'send-notification_00' with pid 30
+2022-06-23 09:12:40,744 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:12:40,748 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:12:43,754 INFO spawned: 'send-notification_01' with pid 39
+2022-06-23 09:12:43,757 INFO spawned: 'send-notification_00' with pid 40
+2022-06-23 09:12:44,111 INFO exited: send-notification_01 (exit status 1; not expected)
+2022-06-23 09:12:44,111 INFO exited: send-notification_00 (exit status 1; not expected)
+2022-06-23 09:12:45,112 INFO gave up: send-notification_01 entered FATAL state, too many start retries too quickly
+2022-06-23 09:12:45,112 INFO gave up: send-notification_00 entered FATAL state, too many start retries too quickly
+2022-06-23 09:14:20,230 WARN received SIGTERM indicating exit request
