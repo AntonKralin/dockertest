@@ -31,6 +31,7 @@ services:
           - WORK_DIR=${APP_CODE_TODO_PATH_CONTAINER}
           - NODE_VERSION=${NODE_VERSION}
       volumes:
+        - ${NGINX_TODO_HOST_LOG_PATH}/web:/var/log
         - ./web/cron/crontab_todo:/etc/crontab
         - ${APP_CODE_TODO_PATH_HOST}:${APP_CODE_TODO_PATH_CONTAINER}   
       expose:
@@ -52,6 +53,7 @@ services:
           - INSTALL_SUPERVISOR=${INSTALL_SUPERVISOR}
           - WORK_DIR=${APP_CODE_TODO_PATH_CONTAINER}
       volumes:
+          - ${NGINX_TODO_HOST_LOG_PATH}/consumer:/var/log
           - ./consumers/supervisor/todo.conf:/etc/supervisor/conf.d/todo.conf 
           - ${APP_CODE_TODO_PATH_HOST}:${APP_CODE_TODO_PATH_CONTAINER}   
       expose:

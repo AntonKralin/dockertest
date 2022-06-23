@@ -68,9 +68,9 @@ RUN if [ ${INSTALL_PG_CLIENT} = true ]; then \
 
 COPY ./requirements.txt /opt/
 RUN pip install -r /opt/requirements.txt
-ARG WORK_DIR=/var/www
+ARG WORK_DIR=/var/www/todo
 RUN usermod -u 1000 www-data
 WORKDIR ${WORK_DIR}
 EXPOSE 9000
-CMD [ "uwsgi" ]
+CMD [ "uwsgi"]
 
